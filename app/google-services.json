@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631363245161",
+    "firebase_url": "https://my-chat-26269.firebaseio.com",
+    "project_id": "my-chat-26269",
+    "storage_bucket": "my-chat-26269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631363245161:android:dd69a9e65f0295b0197ef8",
+        "android_client_info": {
+          "package_name": "ktk.cumtla.my_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631363245161-i4r85f0gt7kifupaeap790pp1rr41sfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuh_lgxCU0Yf8wo1IBOR31D7I2LHMsFsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631363245161-i4r85f0gt7kifupaeap790pp1rr41sfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
